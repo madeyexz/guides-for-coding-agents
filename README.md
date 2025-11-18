@@ -24,7 +24,7 @@ The guides are used as grounded truth about certain services, APIs, or workflows
 
 Contributions are welcome! Please feel free to submit a pull request to add new guides or improve existing ones.
 
-Keep this in mind: 
+Keep these in mind: 
 1. the guides are mainly intended for coding agents to read, not for humans.
 2. They should be able to propose a complete plan to implement a feature after reading the guides and exploring the codebase.
 3. Ideally the docs should contain ASCII diagrams to help human readers understand the flow of the system.
